@@ -35,65 +35,63 @@ Builds end-to-end ML systems from raw data to deployment, focusing on performanc
 
 ---
 
-## ML & AI Stack
+## 🛠️ Tech Stack
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-black?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
-
----
-
-## Data, Systems & Tooling
-
+### Programming & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-## MLOps & Optimization
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Mixed Precision](https://img.shields.io/badge/AMP-black?style=for-the-badge)
-![Gradient Clipping](https://img.shields.io/badge/Gradient%20Clipping-black?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-black?style=for-the-badge)
-
----
-
-## Backend & Deployment
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge)
-
----
-
-## Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
 ---
 
-## Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=for-the-badge)
 
 ---
+
+### Data & Scientific Computing
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
+
+---
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge)
+
+---
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 
 ## Selected Projects
 
