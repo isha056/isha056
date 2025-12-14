@@ -3,7 +3,7 @@
 Machine Learning Engineer | Applied AI  
 Computer Vision · NLP · Forecasting · Generative AI
 
-Builds end-to-end ML systems from raw data to deployment, spanning modeling, systems, and production inference.
+Builds end-to-end ML systems from raw data to deployment, focusing on performance, robustness, and real-world impact.
 
 ---
 
@@ -11,9 +11,16 @@ Builds end-to-end ML systems from raw data to deployment, spanning modeling, sys
 
 • Applied Machine Learning & Deep Learning  
 • Computer Vision, NLP, Time-Series Forecasting  
-• Transformer-based architectures (LLMs, ViT, DeBERTa)  
-• Feature engineering, model optimization, and evaluation  
-• Backend integration and deployment of ML systems  
+• Transformer-based architectures (ViT, DeBERTa, LLMs)  
+• Feature engineering, optimization, and evaluation  
+• Production inference and backend deployment  
+
+---
+
+## Let’s Connect
+
+📧 **Email:** isha.2005.sharma@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/isha-sharma056/
 
 ---
 
@@ -56,7 +63,7 @@ Builds end-to-end ML systems from raw data to deployment, spanning modeling, sys
 ## MLOps & Optimization
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AMP](https://img.shields.io/badge/AMP-black?style=for-the-badge)
+![Mixed Precision](https://img.shields.io/badge/AMP-black?style=for-the-badge)
 ![Gradient Clipping](https://img.shields.io/badge/Gradient%20Clipping-black?style=for-the-badge)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-black?style=for-the-badge)
 
@@ -81,7 +88,7 @@ Builds end-to-end ML systems from raw data to deployment, spanning modeling, sys
 
 ---
 
-## Databases & Storage
+## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
@@ -92,32 +99,40 @@ Builds end-to-end ML systems from raw data to deployment, spanning modeling, sys
 
 ### 🌱 Plant Disease Detection (Hybrid CNN + ViT)
 • Patent-filed hybrid architecture  
-• Multi-class disease classification  
-• Vision Transformer + CNN ensemble  
+• Multi-class leaf disease classification  
+• CNN + Vision Transformer ensemble  
+
+Repository →  
 https://github.com/isha056/Plant-Disease-Detection-with-a-hybrid-model
 
 ---
 
 ### 💰 Product Price Regressor (DeBERTa-v3)
-• Transformer-based regression  
+• Transformer-based regression on catalog data  
 • Amazon ML Challenge 2025  
-• Rank **79 / 20,000+ (Top 0.5%)**  
+• **Rank 79 / 20,000+ (Top 0.5% globally)**  
+
+Repository →  
 https://github.com/isha056/Product-Price-Regressor-DeBERTa-v3-
 
 ---
 
-### ⚡ Metro City Power Consumption Forecasting
-• GRU + GNN time-series system  
-• 98% accuracy  
-• SLDC + IMD + NOAA data  
+### ⚡ Short-Term Metro City Power Consumption Forecasting
+• GRU + GNN hybrid time-series system  
+• **98% accuracy** on short-term demand  
+• SLDC + IMD + NOAA data integration  
+
+Repository →  
 https://github.com/isha056/smart_india_hackathon
 
 ---
 
 ### 🏋️ Real-Time Exercise Form Analysis
-• MediaPipe + OpenCV  
-• Rule-based feedback  
-• FastAPI backend  
+• Pose estimation with rule-based feedback  
+• ~92% accuracy, real-time CPU inference  
+• MediaPipe + OpenCV + FastAPI  
+
+Repository →  
 https://github.com/isha056/exercise.project
 
 ---
@@ -141,18 +156,11 @@ https://github.com/isha056/exercise.project
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha056&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha056&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isha056&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isha056&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=isha056&theme=dark&hide_border=true)
-
----
-
-## Let’s Connect
-
-📧 isha.2005.sharma@gmail.com  
-🔗 https://www.linkedin.com/in/isha-sharma056/
 
 ---
 
