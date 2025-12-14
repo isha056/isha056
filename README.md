@@ -3,6 +3,8 @@
 Machine Learning Engineer | Applied AI  
 Computer Vision · NLP · Forecasting · Generative AI
 
+![Profile Views](https://komarev.com/ghpvc/?username=isha056&style=for-the-badge&color=blue)
+
 Builds end-to-end ML systems from raw data to deployment, focusing on performance, robustness, and real-world impact.
 
 ---
