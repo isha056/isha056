@@ -3,16 +3,17 @@
 Machine Learning Engineer | Applied AI  
 Computer Vision · NLP · Forecasting · Generative AI
 
-Builds and deploys end-to-end ML systems from raw data to production, with measurable performance and real-world impact.
+Builds end-to-end ML systems from raw data to deployment, spanning modeling, systems, and production inference.
 
 ---
 
 ## Professional Focus
 
 • Applied Machine Learning & Deep Learning  
-• Vision, NLP, and Time-Series Forecasting  
-• Transformer-based architectures  
-• Production inference and deployment  
+• Computer Vision, NLP, Time-Series Forecasting  
+• Transformer-based architectures (LLMs, ViT, DeBERTa)  
+• Feature engineering, model optimization, and evaluation  
+• Backend integration and deployment of ML systems  
 
 ---
 
@@ -35,6 +36,8 @@ Builds and deploys end-to-end ML systems from raw data to production, with measu
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-black?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-black?style=for-the-badge)
 
 ---
 
@@ -44,7 +47,18 @@ Builds and deploys end-to-end ML systems from raw data to production, with measu
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+## MLOps & Optimization
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AMP](https://img.shields.io/badge/AMP-black?style=for-the-badge)
+![Gradient Clipping](https://img.shields.io/badge/Gradient%20Clipping-black?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-black?style=for-the-badge)
 
 ---
 
@@ -53,64 +67,66 @@ Builds and deploys end-to-end ML systems from raw data to production, with measu
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge)
+
+---
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+
+---
+
+## Databases & Storage
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
 
 ---
 
 ## Selected Projects
 
-### 🌱 Plant Disease Detection (Hybrid CNN + ViT Model)
-Hybrid multi-branch model for crop disease identification  
-• **Multi-class leaf disease classification**  
-• **Patent filed** for hybrid modeling approach  
-• Used CNN + Vision Transformer ensemble  
-
-Repository →  
+### 🌱 Plant Disease Detection (Hybrid CNN + ViT)
+• Patent-filed hybrid architecture  
+• Multi-class disease classification  
+• Vision Transformer + CNN ensemble  
 https://github.com/isha056/Plant-Disease-Detection-with-a-hybrid-model
 
 ---
 
 ### 💰 Product Price Regressor (DeBERTa-v3)
-Transformer-based regression for catalog price prediction  
-• Trained on large-scale textual data  
-• **Amazon ML Challenge 2025**  
-• **Rank 79 / 20,000+ (Top 0.5% globally)**  
-
-Repository →  
+• Transformer-based regression  
+• Amazon ML Challenge 2025  
+• Rank **79 / 20,000+ (Top 0.5%)**  
 https://github.com/isha056/Product-Price-Regressor-DeBERTa-v3-
 
 ---
 
-### ⚡ Short-Term Metro City Power Consumption Forecasting
-Hybrid GRU + GNN forecasting system  
-• **98% accuracy** on short-term demand prediction  
-• Integrated **SLDC, IMD, NOAA** data  
-• Flask + MySQL web platform for real-time analytics  
-
-Repository →  
+### ⚡ Metro City Power Consumption Forecasting
+• GRU + GNN time-series system  
+• 98% accuracy  
+• SLDC + IMD + NOAA data  
 https://github.com/isha056/smart_india_hackathon
 
 ---
 
 ### 🏋️ Real-Time Exercise Form Analysis
-Pose estimation with rule-based feedback  
-• ~92% accuracy, real-time CPU inference  
-• MediaPipe + OpenCV + FastAPI pipeline  
-
-Repository →  
+• MediaPipe + OpenCV  
+• Rule-based feedback  
+• FastAPI backend  
 https://github.com/isha056/exercise.project
 
 ---
 
 ## Achievements
 
-• **Smart India Hackathon 2024** – Finalist (Top 30 / 600+)  
-  https://www.sih.gov.in  
-
-• **Flipkart Grid 7.0** – National Semi-Finalist  
-  https://unstop.com/competitions/flipkart-grid  
-
-• **Amazon ML Challenge 2025** – Top 0.5% Global Rank  
-  https://www.amazon.science/events-and-conferences/machine-learning-challenge
+• Smart India Hackathon 2024 – Finalist (Top 30 / 600+)  
+• Flipkart Grid 7.0 – National Semi-Finalist  
+• Amazon ML Challenge 2025 – Top 0.5% Global Rank  
 
 ---
 
@@ -135,9 +151,9 @@ https://github.com/isha056/exercise.project
 
 ## Let’s Connect
 
-📧 Email: isha.2005.sharma@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/isha-sharma056/
+📧 isha.2005.sharma@gmail.com  
+🔗 https://www.linkedin.com/in/isha-sharma056/
 
 ---
 
-Focused on building **production-grade ML systems** with verifiable outcomes.
+Focused on **production-grade ML systems**, not notebooks.
